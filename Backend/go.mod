@@ -1,4 +1,4 @@
-module github.com/Nizomiddin-Valijanov/web-server
+module github.com/Nizomiddin-Valijanov/web-server-with-mongo.db
 
 go 1.22.0
 
